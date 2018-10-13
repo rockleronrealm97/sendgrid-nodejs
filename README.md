@@ -15,7 +15,7 @@ For updates to this library, see our [CHANGELOG](https://github.com/sendgrid/sen
 
 Subscribe to email [release notifications](https://dx.sendgrid.com/newsletter/nodejs) to receive emails about releases and breaking changes.
 
-We appreciate your continued support, thank you!
+We appreciate your continued support, thank you so much!
 
 # Table of Contents
 
