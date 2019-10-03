@@ -22,7 +22,8 @@ class Client {
   /**
    * Constructor
    */
-  constructor() {
+  constructor() 
+  {
 
     //API key
     this.apiKey = '';
@@ -123,7 +124,8 @@ class Client {
         if (response.statusCode >= 400) {
           return reject(new ResponseError(response));
         }
-
+        else
+          console.log("Request successful");
         //Successful response
         resolve([response, body]);
       });
